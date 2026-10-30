@@ -3,7 +3,7 @@
 National-level application of the Czech Red Cross (ČČK). It has two jobs:
 
 - **Federation hub.** A registry of every
-  [MemberBase](https://github.com/spidermila/MemberBase) deployment in the
+  [MemberBase](https://github.com/CzechRedCrossFM/MemberBase) deployment in the
   country (one per Oblastní spolek), and the channel for predefined requests
   between them and from national bodies to them. A person in the source
   Oblastní spolek approves every request before any member data leaves it.
@@ -20,9 +20,9 @@ open questions are in [`architecture.md`](architecture.md).
 
 ## Related projects
 
-- [MemberBase](https://github.com/spidermila/MemberBase) – member directory
+- [MemberBase](https://github.com/CzechRedCrossFM/MemberBase) – member directory
   of one Oblastní spolek („Evidence členů“).
-- [MedCover](https://github.com/spidermila/MedCover) – event medical cover
+- [MedCover](https://github.com/CzechRedCrossFM/MedCover) – event medical cover
   staffing, built by the same team.
 
 ## Licence
